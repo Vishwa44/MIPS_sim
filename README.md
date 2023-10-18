@@ -1,2 +1,3 @@
 # MIPS_sim
-Single Cycle MIPS simulator
+1. Single Cycle MIPS simulator
+2. Pipelined MIPS Simulator
